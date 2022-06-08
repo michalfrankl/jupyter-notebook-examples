@@ -1,0 +1,4 @@
+arangodb = ''
+arangocoll = 'geonames'
+username = ''
+password = ''
